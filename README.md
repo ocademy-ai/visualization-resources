@@ -48,11 +48,19 @@ https://r-craft.org/r-news/get-started-with-shiny-for-python/
 
 ## Streamlit 
 
-
-
+There seems not to be a Hub for streamlit apps on the topic of statistics & machine learning.
 
 ### Misc
 - https://towardsdatascience.com/interactive-machine-learning-and-data-visualization-with-streamlit-7108c5032144
 - https://bgremoval.streamlit.app/
 - https://tweets.streamlit.app/
-- 
+- https://extras.streamlit.app/Toggle%20button
+- https://jojo96-asciigan-asciigan-z6pv4q.streamlit.app/
+- https://ammaryh92-activation-functions-app-h67vkx.streamlit.app/
+- https://christopherdavisuci-streamlit-ed-grad-desc-ehj4d4.streamlit.app/
+- https://harmkenn-python-stat-tools-app-8h7fra.streamlit.app/
+- https://mesmith027-streamlit-webapps-mc-pistreamlit-app-l4b15e.streamlit.app/
+
+
+
+
