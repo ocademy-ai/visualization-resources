@@ -1,4 +1,4 @@
-# visualization-resources
+# Visualization Resources
 
 ## Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter
 
@@ -37,13 +37,11 @@ Radiant is an R package for statistics and machine learning with a Shiny user in
 - https://smac-group.github.io/ds/shiny-web-applications.html
 - https://plotly-r.com/linking-views-with-shiny.html
 - https://datascience-enthusiast.com/R/shiny_ML.html
-- 
 
 
 ## Shiny for Python
 
 https://r-craft.org/r-news/get-started-with-shiny-for-python/
-
 
 
 ## Streamlit 
