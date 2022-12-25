@@ -1,8 +1,12 @@
 # Visualization Resources
 
-## Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter
+## Streamlit vs. Shiny vs. Jupyter
 
 - https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+
+Streamlit is a dashboard tool based on Python, while Shiny uses R. Both tools focus on turning data analysis scripts into full, interactive web applications. 
+
+Streamlit is a full data dashboarding solution, while Jupyter Notebooks are primarily useful to engineers who want to develop software and visualizations. Engineers use Streamlit to build dashboards for non-technical users, and they use Jupyter Notebooks to develop code and share it with other engineers.
 
 
 
