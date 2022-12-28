@@ -1,5 +1,9 @@
 # Visualization Resources
 
+## Very popular visualzation websites
+- https://playground.tensorflow.org/ [written in TypeScript using d3.js.]
+
+
 ## Streamlit vs. Shiny vs. Jupyter
 
 - https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
@@ -65,4 +69,23 @@ There seems not to be a Hub for streamlit apps on the topic of statistics & mach
 
 
 
+## tensorflow.js
+### Misc
+- https://observablehq.com/@nkreeger/visualizing-ml-training-using-tensorflow-js-and-baseball-d
+- https://www.youtube.com/watch?v=pQv_lswBeZw
+- https://miles-per-gallon-prediction-tensorflow-js.netlify.app/
+- https://medium.com/ailab-telu/learn-and-play-with-tensorflow-js-part-1-94ef8a8c60f3
+- https://www.oreilly.com/library/view/hands-on-machine-learning/9781838821739/46aecee0-d7c1-4479-9bde-e1f4de5cfd6e.xhtml
+- https://www.tensorflow.org/js/demos
 
+Basically, tensorflow.js is rarely used for machine learning visualization purpose, especially for pedagogical goal.
+
+## Jupyter Notebook
+
+### Misc
+- https://github.com/pierpaolo28/Data-Visualization
+- https://github.com/stefmolin/python-data-viz-workshop
+- https://github.com/DeltaAnalytics/machine_learning_for_good
+- https://github.com/LearnDataSci/articles
+- https://github.com/shlokashah/Machine-Learning-and-Data-Visualization
+- Machine Learning A-Z
